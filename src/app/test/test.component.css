@@ -1,4 +1,5 @@
 .test{
     background: #c44747;
     color: #fff;
+    display: flex;
 }
